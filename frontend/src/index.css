@@ -1,0 +1,21 @@
+body{
+  background: #f1f1f1;
+}
+
+.page-section {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 15px
+}
+.logo-tenp{
+  fill: black;
+  filter: brightness(0);
+
+}
+
+.p-menubar ul .p-menubar-root-list{
+  margin: auto;
+}
+.p-menubar .p-menubar-custom, .p-menubar .p-menubar-end{
+  margin-left: 0;
+}
